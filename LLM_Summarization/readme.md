@@ -43,7 +43,7 @@ The notebook processes text input for summarization tasks. Ensure the dataset is
   
   - The final model can be used for summarization tasks in various applications.
   
-  - Weights & Biases training run details: WandB Run
+  - Weights & Biases training run details: [WandB Run](https://wandb.ai/existence/huggingface/runs/b8x350xg)
 
 ## Acknowledgments
 Hugging Face for the model and transformers library.
