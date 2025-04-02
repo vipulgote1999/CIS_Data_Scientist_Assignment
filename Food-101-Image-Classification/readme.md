@@ -18,4 +18,8 @@ You can explore and execute the project code using the following Kaggle notebook
 - [CIS Food-101 Classification Task](https://www.kaggle.com/code/vipulgote4/cis-food-101-classification-task):  
   The primary notebook containing the end-to-end implementation of the classification model, including data processing, training, and evaluation.
 
+## Current Hyperparmeter tuning is undergoing at:
+- [CIS Food-101 Classification Task Hyperparameter](https://www.kaggle.com/code/vipulgote4/cis-food-101-classification-task-hyperparameter/log?scriptVersionId=231264177):  
+  This notebook showcases the hyperparameter tuning process for improving model accuracy and efficiency.
+
 Please refer to these resources for detailed insights into the project setup, implementation, and results.
